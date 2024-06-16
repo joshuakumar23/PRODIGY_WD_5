@@ -17,5 +17,5 @@ Icon Images
 
 Setup Instructions:
 
-Clone the repository: git clone [https://github.com/your-username/weather-app.git](https://github.com/joshuakumar23/PRODIGY_WD_5.git)
+Clone the repository: git clone (https://github.com/joshuakumar23/PRODIGY_WD_5.git)
 Open index.html in your web browser.
